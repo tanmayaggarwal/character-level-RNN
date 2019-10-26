@@ -1,3 +1,4 @@
+#
 # This application builds a character-level RNN using LSTMs with PyTorch
 # The network will train character by character on some text, then generate new text
 # character by character.
